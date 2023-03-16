@@ -1,0 +1,88 @@
+body{
+    background-color:#fafafa ;
+    font-family: sans-serif;
+}
+.container {
+    width: 900px;
+    margin: 0Px auto;
+    padding-top: 50px; 
+    display: flex;
+}
+.gambar{
+    width: 50%;
+    margin-right: 30px;
+}
+.gambarku{
+    width: 100%;
+    padding-top: 30px;
+}
+.text{
+    width: 50%;
+    margin-bottom: 50px;
+    margin-top: 30px;
+}
+.text1{
+    border-style: solid;
+    border-color: #f0f0f0;
+    border-width: 2px;
+    text-align: center;
+    background-color: white;
+    padding-top: 15px;
+    padding-bottom: 15px;
+ }
+.logoinstagram{
+    width: 200px;
+    text-align: center ;
+    padding-top: 30px;
+}
+.form{
+    margin-top: 20px;
+}
+.input{
+    width: 330px;
+    border: 1px solid grey;
+    height: 30px;
+    padding: 4px;
+    border-radius: 5px;
+    margin-top: 10px;
+}
+.btn {
+    background-color: #0095f6;
+    border: 0px solid transparent;
+    margin-top: 20px;
+    width: 330px;
+    height: 30px;
+    color: white;
+    border-radius: 5px;
+}
+.loginfacebook{
+    color: #01017a;
+    text-decoration: none;
+}
+.linkforgot{
+    text-decoration: none;
+    color: grey;
+    font-size: 12px;
+}
+.linksignup{
+    color: #0095f6;
+    text-decoration: none;
+}
+.logoappstore{
+    width: 160px;
+    text-align: center ;
+    padding-left: 60px;
+}
+.logoplaystore{
+    width: 160px;
+    text-align: center ;
+    padding-left: 10px;
+}
+.getapp{
+    text-align: center;
+}
+.th{
+    color: red;
+}
+
+
